@@ -1,0 +1,9 @@
+# git ignore file
+#.gitignore
+
+# files
+
+# directories
+
+# build results
+*.opt
